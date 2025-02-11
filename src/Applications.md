@@ -7,9 +7,6 @@ Week 4 Applications
 Download `wk4_cpi2023.pdf` from Canvas. The data contain **Singapore’s
 Consumer Price Index (CPI) in 2023**.
 
-It was originally retrieved from
-[here](https://www.mas.gov.sg/monetary-policy/consumer-price-developments).
-
 Let’s read the file into `R`.
 
 ``` r
