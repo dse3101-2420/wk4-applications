@@ -1,2 +1,7 @@
-# wk4-applications
-[Click here to view the main document](https://github.com/dse3101-2320/03-workshop/blob/main/src/03-workshop.md)
+# DSE3101-2420
+
+## Task
+
+In this application, we would like to read data from tables in a PDF file.
+
+[Click here](https://github.com/dse3101-2420/wk4-applications/blob/main/src/Applications.md) to view the main document.
